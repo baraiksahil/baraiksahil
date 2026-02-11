@@ -9,6 +9,7 @@ These days I’m focused on:
  - thoughtful small projects
 
 ## Some stuff I built:
+ - [Snake Game](https://github.com/baraiksahil/Snake-Game) This is snake game here build to learn some basic DOM-manipulation.
 
 <!--
 **baraiksahil/baraiksahil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
