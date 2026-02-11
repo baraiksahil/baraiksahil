@@ -6,7 +6,9 @@ These days I’m focused on:
 
  - React, Tailwind
  - building react components 
- - thoughtful small projects 
+ - thoughtful small projects
+
+## Some stuff I built:
 
 <!--
 **baraiksahil/baraiksahil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
