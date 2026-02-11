@@ -2,6 +2,12 @@
 
 I’m Sahil, a student currently based in Kolkata, India. I like building clean, robust backend and keeping things simple.
 
+These days I’m focused on:
+
+React, Tailwind
+building react components 
+thoughtful small projects 
+
 <!--
 **baraiksahil/baraiksahil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
