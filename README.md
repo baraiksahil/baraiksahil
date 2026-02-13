@@ -11,6 +11,7 @@ These days I’m focused on:
 ## Some stuff I built:
  - [Snake Game](https://github.com/baraiksahil/Snake-Game) This is snake game here build to learn some basic DOM-manipulation.
  - [Flight Search Service](https://github.com/baraiksahil/FlightsAndSearchService) This is a backend for flight management system.
+ - [Learning React](https://github.com/baraiksahil/Learning-React) This is repo where i learn concepts of react.
 
 <!--
 **baraiksahil/baraiksahil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
