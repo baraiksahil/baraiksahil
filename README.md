@@ -14,7 +14,7 @@ These days I’m focused on:
  - [Smart Queue and Appointment (booking-service)](https://github.com/baraiksahil/booking-service) This is a backend for Smart Queue and Appointment system.
  - [Authentication](https://github.com/baraiksahil/Auth-Service) This is backed where i learn about JWT-authentication.
  - [Learning React](https://github.com/baraiksahil/Learning-React) This is repo where i learn concepts of react.
- - [Hangman]() This is the repo for the react hangman game.
+ - [Hangman](https://github.com/baraiksahil/Hangman) This is the repo for the react hangman game.
    
    
 
